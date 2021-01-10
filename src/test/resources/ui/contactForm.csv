@@ -1,0 +1,3 @@
+subjectHeading,emailAddress,orderReference,message,uploadFile
+Webmaster,johnnytester@qa.com,21210000,src/test/resources/ui/contact_us_message.txt,src/test/resources/ui/upload_pic.jpg
+Customer service,tester4life@qa.com,9999,src/test/resources/ui/contact_us_message.txt,src/test/resources/ui/upload_pic.jpg
